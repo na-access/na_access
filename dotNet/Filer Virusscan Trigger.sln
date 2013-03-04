@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Filer Virusscan Trigger", "Filer Virusscan Trigger.vcproj", "{7B774FFC-C808-4356-BAAB-1B14358690BA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7B774FFC-C808-4356-BAAB-1B14358690BA}.Debug.ActiveCfg = Debug|Win32
+		{7B774FFC-C808-4356-BAAB-1B14358690BA}.Debug.Build.0 = Debug|Win32
+		{7B774FFC-C808-4356-BAAB-1B14358690BA}.Release.ActiveCfg = Release|Win32
+		{7B774FFC-C808-4356-BAAB-1B14358690BA}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
